@@ -95,6 +95,7 @@ body {
 
     .navbar-collapse ul {
         height: 90vh;
+        height: 90dvh;
         font-size: 1.75em;
     }
 
